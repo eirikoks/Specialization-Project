@@ -1,0 +1,6 @@
+# Excel data files
+*.xlsx
+~$*
+
+# Jupyter notebook temp folders
+.ipynb_checkpoints/
