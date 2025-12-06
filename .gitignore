@@ -4,3 +4,9 @@
 
 # Jupyter notebook temp folders
 .ipynb_checkpoints/
+
+# Plots
+*.pdf
+
+# macOS system files
+.DS_Store
